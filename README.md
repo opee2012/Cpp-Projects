@@ -1,6 +1,6 @@
 # Practice Folder Contents
 
-I will place all labwork and practice programs in the folder.
+I will place all labwork and practice programs in this folder.
 
 ## Table of Contents
 
