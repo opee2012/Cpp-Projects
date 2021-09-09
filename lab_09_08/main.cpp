@@ -11,7 +11,7 @@ int main(int argc, const char* argv[]) {
    cin >> userYear;
    cin >> userPrice;
    cin >> userCurrentYear;
-      
+
    myCar.SetModelYear(userYear);
    myCar.SetPurchasePrice(userPrice);
    myCar.CalcCurrentValue(userCurrentYear);
