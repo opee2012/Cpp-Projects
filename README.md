@@ -6,3 +6,5 @@ I will place all labwork and practice programs in this folder.
 
 * Lab 09/01
   * driving_costs.cpp
+* Lab 09/08
+  * car_value.cpp
