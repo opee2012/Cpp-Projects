@@ -8,3 +8,5 @@ I will place all labwork and practice programs in this folder.
   * driving_costs.cpp
 * Lab 09/08
   * car_value.cpp
+* Lab 09/13
+  * triangle.cpp
