@@ -38,9 +38,7 @@ public:
 	// TODO: Define InsertAtEnd() function that inserts a node
 	//       to the end of the linked list
     void InsertAtEnd(ItemNode *curr) {
-
         this->nextNodeRef = curr;
-        curr = NULL;
     }
 	
 
