@@ -10,5 +10,5 @@ Triangle.o: Triangle.cpp Triangle.h
 	g++ -c Triangle.cpp
 
 clean:
-	rm -f itemnode
+	rm -f triangle
 	rm -f *.o
